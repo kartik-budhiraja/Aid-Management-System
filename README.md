@@ -6,7 +6,7 @@ The types of goods that need to be shipped are of two categories;
 •	Perishable products, such as food and medicine, that have an expiry date. We refer to products in this category as Perishable. 
 
 
-OVERVIEW OF THE CLASSES TO BE DEVELOPED
+OVERVIEW OF THE CLASSES DEVELOPED AS PART OF THE APPLICATION
 
 The classes used by the client application are:
 Date	
